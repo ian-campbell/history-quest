@@ -1,9 +1,12 @@
 .nav-text{
-  
+  position: absolute;
+  left: 2vw;
+  margin: 0;
 }
 nav{
   top: 0;
-  position: sticky;
+  position: relative;
+  display: flex;
   height: 100px;
   width: 100%;
   background-color: #272727;

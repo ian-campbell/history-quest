@@ -2,11 +2,5 @@ body {
   background-color: #191919;
   margin: 0;
   font-family: Inconsolata, Consolas;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}

@@ -1,6 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 
+function Nav(){
+  return(
+    
+  );
+}
+
 function App() {
   return (
     <div className="App">

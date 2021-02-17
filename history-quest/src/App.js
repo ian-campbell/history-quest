@@ -2,7 +2,9 @@ import './App.css';
 
 function Nav(){
   return(
-    <nav>History Quest!</nav>
+    <nav>
+      <h2 className="nav-text">History Quest!</h2>
+    </nav>
   );
 }
 

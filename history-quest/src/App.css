@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
 }
 
 .App-logo {
@@ -12,6 +11,16 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+nav{
+  top: 0;
+  position: sticky;
+  height: 100px;
+  width: 100%;
+  background-color: #272727;
+  color: cyan;
+}
+
 
 .App-header {
   background-color: #282c34;

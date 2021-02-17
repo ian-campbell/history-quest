@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function Nav(){
@@ -10,9 +9,7 @@ function Nav(){
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Nav />
-      </header>
+      <Nav />
     </div>
   );
 }
